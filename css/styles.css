@@ -10970,3 +10970,28 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+
+
+/* === University of Iowa Color Overrides === */
+.bg-primary {
+  background-color: #000000 !important; /* Iowa Black */
+}
+
+.text-primary {
+  color: #FFCD00 !important; /* Hawkeye Gold */
+}
+
+a {
+  color: #FFCD00;
+}
+a:hover {
+  color: #e6b800;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: #ffffff;
+}
+.navbar-dark .navbar-nav .nav-link.active,
+.navbar-dark .navbar-nav .nav-link:hover {
+  color: #FFCD00;
+}
