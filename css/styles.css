@@ -10977,8 +10977,8 @@ section.resume-section .resume-section-content {
   background-color: #000000 !important; /* Iowa Black */
 }
 
-.text-primary {
-  color: #FFCD00;
+.resume-section-content .text-primary {
+  color: #FFCD00 !important;
 }
 
 a {
