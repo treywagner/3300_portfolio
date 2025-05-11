@@ -79,7 +79,10 @@ Visit GA4 > Reports > Realtime to see live session data
 
 Use Google Tag Assistant
 
-## 🚀 Deployment
+---
+
+## Deployment 🚀
+
 This site can be hosted via:
 
 GitHub Pages: Push the repository and enable GitHub Pages in repo settings.
@@ -93,10 +96,14 @@ A Records (@) pointing to Azure Static Web Apps Front Door IPs
 
 CNAME (www) pointing to the Azure auto-generated domain
 
-## 📄 License
+---
+
+## License 📄
 This project was created for academic purposes and personal presentation. Content is © 2025 Trey Wagner. Reuse is not permitted without permission.
 
-## 🙏 Acknowledgments
+---
+
+## Acknowledgments 🙏
 Bootstrap
 
 Font Awesome
